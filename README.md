@@ -1,5 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+## Name: KRISHNA KUMAR R
+## Register Number: 212223230107
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
